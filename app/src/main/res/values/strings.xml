@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Restaurant Map</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- TextView texts -->
+    <string name="add_restaurant_text">ADD A RESTAURANT</string>
+
+    <!-- EditText hints -->
+    <string name="place_name_hint">Place Name</string>
+    <string name="location_hint">Location</string>
+
+    <!-- Button texts -->
+    <string name="add_place_button">ADD A NEW PLACE</string>
+    <string name="show_all_button">SHOW ALL ON MAP</string>
+    <string name="get_current_loc_button">GET CURRENT LOCATION</string>
+    <string name="show_on_map_button">SHOW ON MAP</string>
+    <string name="save_button">SAVE</string>
+
+    <!-- Image descriptions -->
+    <string name="home_icon_img">icon that is displayed on the home screen</string>
+</resources>
